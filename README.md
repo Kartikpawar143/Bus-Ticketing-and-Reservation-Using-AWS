@@ -31,4 +31,16 @@ Configure Storage. <br>
 Launch Instance. <br>
 
 ![Screenshot 2025-01-26 235455](https://github.com/user-attachments/assets/3d46f565-31de-4497-a0a5-95703ca0d472)
+![Screenshot 2025-01-27 001245](https://github.com/user-attachments/assets/c15fe667-c5f2-45f3-a298-abaadbce7944)
+![Screenshot 2025-01-27 001301](https://github.com/user-attachments/assets/4ad5fcf8-8fe6-4ec3-9ea4-e22cea555cea)
+![Screenshot 2025-01-27 001341](https://github.com/user-attachments/assets/1e8c1699-ea22-40af-8343-f77513c7a3f4)
+![Screenshot 2025-01-27 001519](https://github.com/user-attachments/assets/93f23f94-aeb7-47d8-a009-4ac26b34b06b)
+![Screenshot 2025-01-27 001529](https://github.com/user-attachments/assets/256f3721-5326-4f3c-a0a9-4775fc000233)
+![Screenshot 2025-01-27 001539](https://github.com/user-attachments/assets/d46c34fb-48fa-4649-a884-b0ef9406891c)
+
+![Screenshot 2025-01-27 001605](https://github.com/user-attachments/assets/f23d5aa6-3d70-42f8-ab23-517b8cb343db)
+
+![Screenshot 2025-01-27 001635](https://github.com/user-attachments/assets/2e9386cf-228c-4f72-9bd6-6fb3196a6881)
+
+![Screenshot 2025-01-27 001648](https://github.com/user-attachments/assets/64737d42-519d-4992-9ca1-8d5edbeefa82)
 
