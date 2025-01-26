@@ -1,7 +1,7 @@
 # Bus Ticketing and Reservation Using AWS Window Instance. <br>
 
 
-Process Given Below: <br><br>
+<h2>Process Given Below: </h2><br><br>
 
 Open AWS Console and search EC2. <br>
 
