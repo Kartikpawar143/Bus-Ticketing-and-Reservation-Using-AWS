@@ -1,5 +1,10 @@
 # Bus Ticketing and Reservation Using AWS Window Instance. <br>
 
+
+Process Given Below: <br><br>
+
+Open AWS Console and search ECS. <br>
+
 ![Screenshot 2025-01-26 235055](https://github.com/user-attachments/assets/7cbd659b-4473-451c-a324-8d3b6c4e3894)
 
 ![Screenshot 2025-01-26 235109](https://github.com/user-attachments/assets/beb8a70e-d8c7-4bd3-97a8-8e7c8c95a90f)
