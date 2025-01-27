@@ -68,59 +68,53 @@ Click yes. <br>
 
 ![Screenshot 2025-01-27 001648](https://github.com/user-attachments/assets/64737d42-519d-4992-9ca1-8d5edbeefa82)
 
+Window AMI will open. <br>
+
 ![1](https://github.com/user-attachments/assets/96dc8820-52d7-4c12-ab55-a701c9872a2e)
+
+Search xampp download. <br>
+
 ![2](https://github.com/user-attachments/assets/745becdb-54a5-4dc4-9f50-c268bf4e8da7)
-
 ![3](https://github.com/user-attachments/assets/f0780cbc-c577-4983-804d-8812e9d6c5f2)
-
 ![27 01 2025_00 18 53_REC](https://github.com/user-attachments/assets/a49199dc-9194-487c-abc3-5bd7276e3271)
-# By following the below path of file, copy the source code in that folder. The source code is also attached here.
-path:- C:\xampp\htdocs\Mumbai-Local-Train-Ticket-Booking-main
+
+By following the below path of file, copy the source code in that folder. <br>
+
 ![27 01 2025_00 20 43_REC](https://github.com/user-attachments/assets/0ccb1279-7abc-4c8a-97e7-eb2bea50b426)
-
 ![27 01 2025_00 21 06_REC](https://github.com/user-attachments/assets/9171401e-3249-433e-995d-feb06c0234b9)
-
 ![27 01 2025_00 21 31_REC](https://github.com/user-attachments/assets/1d06251b-4c78-4db7-a9a9-4e3b20da1020)
-
 ![27 01 2025_00 22 21_REC](https://github.com/user-attachments/assets/793f89ff-ad98-481a-a646-07e26ffa518b)
 
+After that, open XAMPP and start Apache and MySql module. <br>
 
-# After that, open XAMPP and start Apache and MySql module.
 ![27 01 2025_00 26 10_REC](https://github.com/user-attachments/assets/8e3efa5d-fed3-4e91-aadc-cd77fc6fc655)
 
+Go to the admin of the xampp and then the xampp dashboard wil open. <br>
 
-# Go to the admin of the xampp and then the xampp dashboard wil open.
 ![27 01 2025_00 26 30_REC](https://github.com/user-attachments/assets/be6278b1-6de4-42e0-8456-f9c8f80109cb)
-
 ![27 01 2025_00 26 48_REC](https://github.com/user-attachments/assets/a7515853-7554-461b-bd61-598cee95551a)
 
+Click on the phpMyAdmin of that dashboard and create new database named by train. <br>
 
-# Click on the phpMyAdmin of that dashboard and create new database named by train.
 ![27 01 2025_00 27 42_REC](https://github.com/user-attachments/assets/25a990ee-5872-4bfe-96ec-5fe9034346de)
-
 ![27 01 2025_00 28 17_REC](https://github.com/user-attachments/assets/83314f47-de0c-4e90-8be7-6e18b53add06)
 
+Then import the train.sql file which is in the source code. <br>
 
-# Then import the train.sql file which is in the source code.
 ![27 01 2025_00 28 45_REC](https://github.com/user-attachments/assets/5f17b839-4d1e-454f-bf1c-f4efb6032a8e)
-
 ![27 01 2025_00 31 13_REC](https://github.com/user-attachments/assets/020c6853-357d-44d5-a1b5-982f8f4e10fd)
 
+After this, <br>
+open new web page and type localhost/Mumbai-Local-Train-Ticket-Booking-main at there. <br>
 
-# After this, open new web page and type localhost/Mumbai-Local-Train-Ticket-Booking-main at there.
 ![27 01 2025_00 33 27_REC](https://github.com/user-attachments/assets/07aa02ca-137b-4b7f-873f-d442de76880b)
 
+Here we have created our Bus Ticket or Railway Ticket booking application with the payment system, Bus Schedules, Train Schedules, etc. <br>
 
-# Here we have created our Bus Ticket or Railway Ticket booking application with the payment system, Bus Schedules, Train Schedules, etc.
 ![27 01 2025_00 34 07_REC](https://github.com/user-attachments/assets/2ac3db29-0946-4099-a8be-4cabc72516d3)
-
 ![27 01 2025_00 36 16_REC](https://github.com/user-attachments/assets/93da21fb-77a9-48dc-b0a3-95e9e2989d7e)
-
 ![27 01 2025_00 37 24_REC](https://github.com/user-attachments/assets/8662fbee-e51a-487a-afd4-49cab57da0a5)
-
 ![27 01 2025_00 38 07_REC](https://github.com/user-attachments/assets/ae5ccfa4-a2eb-4072-bb46-ddc2484b2b48)
-
 ![27 01 2025_00 38 56_REC](https://github.com/user-attachments/assets/1f4bf830-e5fd-497f-b16c-c754b80944f5)
-
 ![27 01 2025_00 39 15_REC](https://github.com/user-attachments/assets/2d71020a-313a-48fa-86da-2e691f4ae3df)
 
