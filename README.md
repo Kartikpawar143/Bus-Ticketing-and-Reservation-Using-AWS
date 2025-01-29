@@ -1,7 +1,8 @@
 # Bus Ticketing, Reservation and Payment System Using AWS Window Instance. <br>
 
+<h2>Passengers can buy bus or railway tickets on our platform. We are using AWS EC2 service for that.</h2> <br>
 
-<h2>Process Given Below: </h2><br><br>
+<h3>Process Given Below: </h3><br><br>
 
 Open AWS Console and search EC2. <br>
 
